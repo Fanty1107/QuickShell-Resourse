@@ -13,7 +13,7 @@ Window{
             GradientStop { position: 0.53; color: "yellow" }
             GradientStop { position: 1.0; color: "green" }
         }
-        
+
         Text{
             text:"Hello, World!"
             anchors.centerIn: parent
